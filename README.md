@@ -1,4 +1,4 @@
-# Andrew Bevan: Example of Spatial Analysis and Data Mani[ulaiton Using Iron Age Coins
+# Andrew Bevan: Example of Spatial Analysis and Data Manipulation Using Late Iron Age Coins from western England
 
 This repository includes data and R code used in a talk at the Coin Hoarding in the Roman Empire (15 September 2016), University of Oxford.
 
